@@ -305,6 +305,10 @@ Noryx is a Version 1 MCP server.
 - Remote MCP deployment
 - Expanded AI client integrations
 
+## 🎬 Project Demo
+
+[▶ Watch Noryx Portfolio Demo](./Noryx%20Portfolio%20Demo%20.mp4)
+
 ## 👨‍💻 Author
 
 **Syed Ali Tarikh**
